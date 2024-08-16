@@ -1,0 +1,66 @@
+<Meta name="Solar_Lib">
+  <messagelist>
+    <message status="warning" label="build" groupid="205001" id="1644045830" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="master:short" status="warning" link="756410525" /><![CDATA[Suspicious floating terminal at node 'NT_12'.]]></message>
+    <message status="warning" label="build" groupid="205001" id="1743953928" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="master:short" status="warning" link="1669157090" /><![CDATA[Suspicious floating terminal at node 'NT_13'.]]></message>
+    <message status="warning" label="build" groupid="206502" id="2120651588" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="master:delay" status="warning" link="839520592" /><![CDATA[Signal 'RT_49' type conversion may lose accuracy at connection 'in']]></message>
+    <message status="warning" label="build" groupid="206502" id="720201467" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="master:delay" status="warning" link="1897356571" /><![CDATA[Signal 'RT_93' type conversion may lose accuracy at connection 'in']]></message>
+    <message status="warning" label="build" groupid="206502" id="2125645234" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="master:delay" status="warning" link="799617828" /><![CDATA[Signal 'RT_94' type conversion may lose accuracy at connection 'in']]></message>
+    <message status="warning" label="build" groupid="206502" id="520443294" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="master:delay" status="warning" link="1784042278" /><![CDATA[Signal 'RT_95' type conversion may lose accuracy at connection 'in']]></message>
+    <message status="warning" label="build" groupid="206502" id="1276059253" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="master:delay" status="warning" link="841776722" /><![CDATA[Signal 'RT_83' type conversion may lose accuracy at connection 'in']]></message>
+    <message status="warning" label="build" groupid="206502" id="71209151" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="master:delay" status="warning" link="1438882071" /><![CDATA[Signal 'RT_84' type conversion may lose accuracy at connection 'in']]></message>
+    <message status="warning" label="build" groupid="206502" id="970511967" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="master:delay" status="warning" link="700093095" /><![CDATA[Signal 'RT_85' type conversion may lose accuracy at connection 'in']]></message>
+    <message status="warning" label="build" groupid="206502" id="644512107" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="master:delay" status="warning" link="1103379090" /><![CDATA[Signal 'RT_87' type conversion may lose accuracy at connection 'in']]></message>
+    <message status="warning" label="build" groupid="206502" id="1851554817" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="master:delay" status="warning" link="1537600205" /><![CDATA[Signal 'RT_88' type conversion may lose accuracy at connection 'in']]></message>
+    <message status="warning" label="build" groupid="206502" id="827199266" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="master:delay" status="warning" link="1799941986" /><![CDATA[Signal 'RT_89' type conversion may lose accuracy at connection 'in']]></message>
+    <message status="warning" label="build" groupid="206502" id="24985912" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="master:delay" status="warning" link="990764453" /><![CDATA[Signal 'RT_90' type conversion may lose accuracy at connection 'in']]></message>
+    <message status="warning" label="build" groupid="206502" id="4561770" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="master:delay" status="warning" link="1990028934" /><![CDATA[Signal 'RT_91' type conversion may lose accuracy at connection 'in']]></message>
+    <message status="warning" label="build" groupid="206502" id="1318980868" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="master:delay" status="warning" link="254214077" /><![CDATA[Signal 'RT_92' type conversion may lose accuracy at connection 'in']]></message>
+    <message status="warning" label="build" groupid="206502" id="1109869576" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="master:sandhdefn" status="warning" link="1007490240" /><![CDATA[Signal 'BRK' type conversion may lose accuracy at connection 'nhold1']]></message>
+    <message status="warning" label="build" groupid="206502" id="1785958701" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="master:inv" status="warning" link="777386281" /><![CDATA[Signal 'BRK' type conversion may lose accuracy at connection 'IN']]></message>
+    <message status="warning" label="build" groupid="206502" id="1596225410" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="master:select" status="warning" link="1515445759" /><![CDATA[Signal 'INIT' type conversion may lose accuracy at connection 'Ctrl']]></message>
+    <message status="warning" label="build" groupid="206502" id="755175761" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="master:bin_delay" status="warning" link="1614233462" /><![CDATA[Signal 'RT_70' type conversion may lose accuracy at connection 'in']]></message>
+    <message status="warning" label="build" groupid="206502" id="2048725501" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="master:inv" status="warning" link="981430834" /><![CDATA[Signal 'DBLK' type conversion may lose accuracy at connection 'IN']]></message>
+    <message status="warning" label="build" groupid="206502" id="1454378605" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="master:inv" status="warning" link="1901647688" /><![CDATA[Signal 'DBLK' type conversion may lose accuracy at connection 'IN']]></message>
+    <message status="warning" label="build" groupid="206502" id="720523743" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="master:fp_int" status="warning" link="966569724" /><![CDATA[Signal 'DBLK' type conversion may lose accuracy at connection 'DBLCK']]></message>
+    <message status="warning" label="build" groupid="206502" id="1436787011" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="master:fp_int" status="warning" link="129371673" /><![CDATA[Signal 'DBLK' type conversion may lose accuracy at connection 'DBLCK']]></message>
+    <message status="warning" label="build" groupid="206502" id="1728650722" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="master:fp_int" status="warning" link="1160922932" /><![CDATA[Signal 'DBLK' type conversion may lose accuracy at connection 'DBLCK']]></message>
+    <message status="warning" label="build" groupid="206502" id="1462093102" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="master:fp_int" status="warning" link="1311553476" /><![CDATA[Signal 'DBLK' type conversion may lose accuracy at connection 'DBLCK']]></message>
+    <message status="warning" label="build" groupid="206502" id="1946337900" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="master:fp_int" status="warning" link="1757694377" /><![CDATA[Signal 'DBLK' type conversion may lose accuracy at connection 'DBLCK']]></message>
+    <message status="warning" label="build" groupid="206502" id="1411996319" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="master:fp_int" status="warning" link="2114994997" /><![CDATA[Signal 'DBLK' type conversion may lose accuracy at connection 'DBLCK']]></message>
+  </messagelist>
+  <ViewContext>
+    <Window defn="Solar_Lib:Main" call="0" />
+  </ViewContext>
+  <List classid="View">
+    <View name="Main" zoomscale="1.5" scrollx="0" scrolly="0" />
+    <View name="VSC" zoomscale="3.66211" scrollx="2356" scrolly="3864" />
+    <View name="PIwithFreeze" zoomscale="2.92969" scrollx="209" scrolly="71" />
+  </List>
+</Meta>

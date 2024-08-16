@@ -1,0 +1,555 @@
+<Meta name="SS_Test_Bench_v5_backup">
+  <messagelist>
+    <message status="normal" label="build" groupid="400002" scope="SS_Test_Bench_v5_backup" id="1088841055" classid="MessageObj"><![CDATA[Begin compiling with PSCAD Version 5.0.2]]></message>
+    <message status="normal" label="build" groupid="100006" link="83281814" id="83281814" classid="FileNavigator"><![CDATA[Generating 'C:\Users\jhaa\Documents\documents_general\i2x\emt-bootcamp\PSCAD\SS_Test_Bench_v5_backup.gf46\SS_Test_Bench_v5_backup.map'.]]><file scope="SS_Test_Bench_v5_backup">C:\Users\jhaa\Documents\documents_general\i2x\emt-bootcamp\PSCAD\SS_Test_Bench_v5_backup.gf46\SS_Test_Bench_v5_backup.map</file></message>
+    <message status="normal" label="build" groupid="100015" scope="SS_Test_Bench_v5_backup" id="38201851" classid="MessageObj"><![CDATA[The total number of live nodes: 84]]></message>
+    <message status="normal" label="build" groupid="0" link="137253323" id="137253323" classid="FileNavigator"><![CDATA[Coding .mak file: 'C:\Users\jhaa\Documents\documents_general\i2x\emt-bootcamp\PSCAD\SS_Test_Bench_v5_backup.gf46\\SS_Test_Bench_v5_backup.mak']]><file scope="SS_Test_Bench_v5_backup">C:\Users\jhaa\Documents\documents_general\i2x\emt-bootcamp\PSCAD\SS_Test_Bench_v5_backup.gf46\\SS_Test_Bench_v5_backup.mak</file></message>
+    <message status="normal" label="build" groupid="400000" scope="SS_Test_Bench_v5_backup" id="1578592528" classid="MessageObj"><![CDATA[Time for Compile: 5027ms  Make: 15ms]]></message>
+    <message status="normal" label="build" groupid="100011" id="1714486798" classid="CmpNavigator">
+      <Wire scope="SS_Test_Bench_v5_backup" name="SS_Test_Bench_v0:TL1" status="normal" link="2132490940" /><![CDATA[Solving transmission segment using 'C:\Users\jhaa\Documents\documents_general\i2x\emt-bootcamp\PSCAD\SS_Test_Bench_v5_backup.gf46\TL1_2.tli'.]]></message>
+    <message status="normal" label="build" groupid="100011" id="1312228883" classid="CmpNavigator">
+      <Wire scope="SS_Test_Bench_v5_backup" name="SS_Test_Bench_v0:TL1" status="normal" link="722406453" /><![CDATA[Solving transmission segment using 'C:\Users\jhaa\Documents\documents_general\i2x\emt-bootcamp\PSCAD\SS_Test_Bench_v5_backup.gf46\TL_IBR_1B.tli'.]]></message>
+    <message status="normal" label="build" groupid="100011" id="939037340" classid="CmpNavigator">
+      <Wire scope="SS_Test_Bench_v5_backup" name="SS_Test_Bench_v0:TL1" status="normal" link="1388274854" /><![CDATA[Solving transmission segment using 'C:\Users\jhaa\Documents\documents_general\i2x\emt-bootcamp\PSCAD\SS_Test_Bench_v5_backup.gf46\TL_IBR2.tli'.]]></message>
+    <message status="normal" label="build" groupid="100011" id="966408411" classid="CmpNavigator">
+      <Wire scope="SS_Test_Bench_v5_backup" name="SS_Test_Bench_v0:TL1" status="normal" link="33866816" /><![CDATA[Solving transmission segment using 'C:\Users\jhaa\Documents\documents_general\i2x\emt-bootcamp\PSCAD\SS_Test_Bench_v5_backup.gf46\TL_IBR_1A.tli'.]]></message>
+    <message status="normal" label="build" groupid="100011" id="518614302" classid="CmpNavigator">
+      <Wire scope="SS_Test_Bench_v5_backup" name="SS_Test_Bench_v0:TL1" status="normal" link="939169189" /><![CDATA[Solving transmission segment using 'C:\Users\jhaa\Documents\documents_general\i2x\emt-bootcamp\PSCAD\SS_Test_Bench_v5_backup.gf46\TL1_1B.tli'.]]></message>
+    <message status="normal" label="build" groupid="100011" id="1867790883" classid="CmpNavigator">
+      <Wire scope="SS_Test_Bench_v5_backup" name="SS_Test_Bench_v0:TL1" status="normal" link="1446372180" /><![CDATA[Solving transmission segment using 'C:\Users\jhaa\Documents\documents_general\i2x\emt-bootcamp\PSCAD\SS_Test_Bench_v5_backup.gf46\TL1_A.tli'.]]></message>
+    <message status="normal" label="build" groupid="400000" scope="SS_Test_Bench_v5_backup" id="1390650011" classid="MessageObj"><![CDATA[Solve Time = 750ms]]></message>
+    <message status="normal" label="build" groupid="100016" scope="SS_Test_Bench_v5_backup" id="387146706" classid="MessageObj"><![CDATA[Will execute (1): call C:\Program Files (x86)\GFortran\4.6\bin\gf46vars.bat]]></message>
+    <message status="normal" label="build" groupid="100016" scope="SS_Test_Bench_v5_backup" id="1240539985" classid="MessageObj"><![CDATA[Will execute (1): call "C:\Program Files (x86)\GFortran\4.6\bin\gf46vars.bat"]]></message>
+    <message status="normal" label="build" groupid="100016" scope="SS_Test_Bench_v5_backup" id="565220047" classid="MessageObj"><![CDATA[Will execute (2): make -j -f SS_Test_Bench_v5_backup.mak]]></message>
+    <message status="normal" label="build" groupid="100016" scope="SS_Test_Bench_v5_backup" id="241602783" classid="MessageObj"><![CDATA[Will execute (2): "C:\Users\jhaa\Documents\documents_general\i2x\emt-bootcamp\PSCAD\SS_Test_Bench_v5_backup.gf46\SS_Test_Bench_v5_backup_mak.bat"]]></message>
+    <message status="normal" label="build" groupid="100005" scope="SS_Test_Bench_v5_backup" id="1775583211" classid="MessageObj"><![CDATA[Creating EMTDC executable...]]></message>
+    <message status="normal" label="build" groupid="0" scope="SS_Test_Bench_v5_backup" id="706889280" classid="MessageObj"><![CDATA[C:\Users\jhaa\Documents\documents_general\i2x\emt-bootcamp\PSCAD\SS_Test_Bench_v5_backup.gf46>call "C:\Program Files (x86)\GFortran\4.6\bin\gf46vars.bat" ]]></message>
+    <message status="normal" label="build" groupid="100013" scope="SS_Test_Bench_v5_backup" id="1606693986" classid="MessageObj"><![CDATA[Linking objects and libraries into binary 'SS_Test_Bench_v5_backup.exe']]></message>
+    <message status="normal" label="build" groupid="400003" scope="SS_Test_Bench_v5_backup" id="1449206082" classid="MessageObj"><![CDATA[Finished compiling with PSCAD Version 5.0.2]]></message>
+    <message status="warning" label="runtime" groupid="200009" id="1794033218" classid="CmpNavigator">
+      <User scope="SS_Test_Bench_v5_backup" name="master:sqrt" status="warning" link="2033133157" /><![CDATA[Progress 10%: A negative value is detected as an input to the Square Root function. Input is treated as 0.0.]]></message>
+    <message status="error" label="runtime" groupid="300008" scope="SS_Test_Bench_v5_backup" id="1842103599" classid="MessageObj"><![CDATA[Process has been terminated by user.]]></message>
+    <message status="warning" label="runtime" groupid="200009" scope="SS_Test_Bench_v5_backup" id="1499851678" classid="MessageObj"><![CDATA[Simulation ending on user request.]]></message>
+  </messagelist>
+  <ViewContext>
+    <Window defn="SS_Test_Bench_v5_backup:Main" call="0" />
+  </ViewContext>
+  <List classid="View">
+    <View name="Main" zoomscale="1.92" scrollx="0" scrolly="0" />
+    <View name="Gen1" zoomscale="2" scrollx="0" scrolly="0" />
+    <View name="IBR" zoomscale="2.34375" scrollx="0" scrolly="0" />
+    <View name="TL1" zoomscale="1.5" scrollx="0" scrolly="0" />
+  </List>
+  <WireCache>
+    <Wire classid="TLine" id="669905403" name="SS_Test_Bench_v0:TL1" x="288" y="450" w="85" h="190" orient="0" disable="false" defn="SS_Test_Bench_v0:TL1" recv="-1" send="-1" back="-1" crc="50722945">
+      <vertex x="0" y="0" />
+      <vertex x="0" y="18" />
+      <vertex x="36" y="162" />
+      <vertex x="36" y="180" />
+      <User classid="UserCmp" id="1930224211" name="SS_Test_Bench_v2:TL1" x="0" y="0" w="0" h="0" z="-1" orient="0" defn="SS_Test_Bench_v2:TL1" link="-1" q="4" disable="false">
+        <paramlist name="" link="-1" crc="0">
+          <param name="Name" value="TL1_1" />
+          <param name="R" value="3.52745738385" />
+          <param name="Freq" value="60.0 [Hz]" />
+          <param name="X" value="50.2349276435" />
+          <param name="B" value="0.000329291025262" />
+          <param name="Length" value="100.0 [km]" />
+          <param name="Dim" value="3" />
+          <param name="Mode" value="1" />
+          <param name="CoupleEnab" value="0" />
+          <param name="cct_overlayed" value="0" />
+          <param name="CoupleName" value="row" />
+          <param name="CoupleOffset" value="0.0 [m]" />
+          <param name="CoupleRef" value="0" />
+          <param name="ManEnab" value="0" />
+          <param name="tname" value="tandem_segment" />
+          <param name="sfault" value="0" />
+          <param name="linc" value="10.0 [km]" />
+          <param name="steps" value="3" />
+          <param name="DataFormat" value="0" />
+          <param name="VR" value="230.0 [kV]" />
+          <param name="MVA" value="100.0 [MVA]" />
+          <param name="r0mpu" value="dim (10,10)">
+            <row><![CDATA[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,0,-1]]></row>
+          </param>
+          <param name="r0m" value="dim (10,10)">
+            <row><![CDATA[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,0,-1]]></row>
+          </param>
+          <param name="xl0mpu" value="dim (10,10)">
+            <row><![CDATA[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,0,-1]]></row>
+          </param>
+          <param name="xl0m" value="dim (10,10)">
+            <row><![CDATA[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,0,-1]]></row>
+          </param>
+          <param name="xc0mpu" value="dim (10,10)">
+            <row><![CDATA[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,0,-1]]></row>
+          </param>
+          <param name="xc0m" value="dim (10,10)">
+            <row><![CDATA[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,0,-1]]></row>
+          </param>
+          <param name="bc0mpu" value="dim (10,10)">
+            <row><![CDATA[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,0,-1]]></row>
+          </param>
+          <param name="tt0m" value="dim (10,10)">
+            <row><![CDATA[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,0,-1]]></row>
+          </param>
+          <param name="zs0m" value="dim (10,10)">
+            <row><![CDATA[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,0,-1]]></row>
+          </param>
+          <param name="gen_cnst" value="1" />
+          <param name="const_path" value="C:\Temp\my_constants_file.tlo" />
+          <param name="Date" value="1723131900" />
+        </paramlist>
+      </User>
+    </Wire>
+    <Wire classid="TLine" id="980899704" name="SS_Test_Bench_v0:TL1" x="468" y="486" w="89" h="190" orient="0" disable="false" defn="SS_Test_Bench_v0:TL1" recv="-1" send="-1" back="-1" crc="2943759">
+      <vertex x="0" y="0" />
+      <vertex x="0" y="18" />
+      <vertex x="36" y="162" />
+      <vertex x="36" y="180" />
+      <User classid="UserCmp" id="1236207376" name="SS_Test_Bench_v5:TL1" x="0" y="0" w="0" h="0" z="-1" orient="0" defn="SS_Test_Bench_v5:TL1" link="-1" q="4" disable="false">
+        <paramlist name="" link="-1" crc="0">
+          <param name="Name" value="TL_IBR1" />
+          <param name="R" value="0.352745738385" />
+          <param name="Freq" value="60.0 [Hz]" />
+          <param name="X" value="5.02349276435" />
+          <param name="B" value="3.29291025262e-05" />
+          <param name="Length" value="10.0 [km]" />
+          <param name="Dim" value="3" />
+          <param name="Mode" value="1" />
+          <param name="CoupleEnab" value="0" />
+          <param name="cct_overlayed" value="0" />
+          <param name="CoupleName" value="row" />
+          <param name="CoupleOffset" value="0.0 [m]" />
+          <param name="CoupleRef" value="0" />
+          <param name="ManEnab" value="0" />
+          <param name="tname" value="tandem_segment" />
+          <param name="sfault" value="0" />
+          <param name="linc" value="10.0 [km]" />
+          <param name="steps" value="3" />
+          <param name="DataFormat" value="0" />
+          <param name="VR" value="230.0 [kV]" />
+          <param name="MVA" value="100.0 [MVA]" />
+          <param name="r0mpu" value="dim (10,10)">
+            <row><![CDATA[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,0,-1]]></row>
+          </param>
+          <param name="r0m" value="dim (10,10)">
+            <row><![CDATA[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,0,-1]]></row>
+          </param>
+          <param name="xl0mpu" value="dim (10,10)">
+            <row><![CDATA[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,0,-1]]></row>
+          </param>
+          <param name="xl0m" value="dim (10,10)">
+            <row><![CDATA[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,0,-1]]></row>
+          </param>
+          <param name="xc0mpu" value="dim (10,10)">
+            <row><![CDATA[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,0,-1]]></row>
+          </param>
+          <param name="xc0m" value="dim (10,10)">
+            <row><![CDATA[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,0,-1]]></row>
+          </param>
+          <param name="bc0mpu" value="dim (10,10)">
+            <row><![CDATA[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,0,-1]]></row>
+          </param>
+          <param name="tt0m" value="dim (10,10)">
+            <row><![CDATA[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,0,-1]]></row>
+          </param>
+          <param name="zs0m" value="dim (10,10)">
+            <row><![CDATA[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,0,-1]]></row>
+          </param>
+          <param name="gen_cnst" value="1" />
+          <param name="const_path" value="C:\Temp\my_constants_file.tlo" />
+          <param name="Date" value="1723674889" />
+        </paramlist>
+      </User>
+    </Wire>
+    <Wire classid="TLine" id="55282781" name="SS_Test_Bench_v0:TL1" x="288" y="342" w="86" h="89" orient="0" disable="false" defn="SS_Test_Bench_v0:TL1" recv="-1" send="-1" back="-1" crc="32919623">
+      <vertex x="54" y="54" />
+      <vertex x="54" y="72" />
+      <vertex x="54" y="54" />
+      <vertex x="54" y="126" />
+      <User classid="UserCmp" id="1871779125" name="SS_Test_Bench_v5:TL1" x="0" y="0" w="0" h="0" z="-1" orient="0" defn="SS_Test_Bench_v5:TL1" link="-1" q="4" disable="false">
+        <paramlist name="" link="-1" crc="0">
+          <param name="Name" value="TL1_1A" />
+          <param name="R" value="1.76372869192" />
+          <param name="Freq" value="60.0 [Hz]" />
+          <param name="X" value="25.1174638217" />
+          <param name="B" value="0.000164645512631" />
+          <param name="Length" value="50 [km]" />
+          <param name="Dim" value="3" />
+          <param name="Mode" value="1" />
+          <param name="CoupleEnab" value="0" />
+          <param name="cct_overlayed" value="0" />
+          <param name="CoupleName" value="row" />
+          <param name="CoupleOffset" value="0.0 [m]" />
+          <param name="CoupleRef" value="0" />
+          <param name="ManEnab" value="0" />
+          <param name="tname" value="tandem_segment" />
+          <param name="sfault" value="0" />
+          <param name="linc" value="10.0 [km]" />
+          <param name="steps" value="3" />
+          <param name="DataFormat" value="0" />
+          <param name="VR" value="230.0 [kV]" />
+          <param name="MVA" value="100.0 [MVA]" />
+          <param name="r0mpu" value="dim (10,10)">
+            <row><![CDATA[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,0,-1]]></row>
+          </param>
+          <param name="r0m" value="dim (10,10)">
+            <row><![CDATA[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,0,-1]]></row>
+          </param>
+          <param name="xl0mpu" value="dim (10,10)">
+            <row><![CDATA[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,0,-1]]></row>
+          </param>
+          <param name="xl0m" value="dim (10,10)">
+            <row><![CDATA[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,0,-1]]></row>
+          </param>
+          <param name="xc0mpu" value="dim (10,10)">
+            <row><![CDATA[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,0,-1]]></row>
+          </param>
+          <param name="xc0m" value="dim (10,10)">
+            <row><![CDATA[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,0,-1]]></row>
+          </param>
+          <param name="bc0mpu" value="dim (10,10)">
+            <row><![CDATA[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,0,-1]]></row>
+          </param>
+          <param name="tt0m" value="dim (10,10)">
+            <row><![CDATA[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,0,-1]]></row>
+          </param>
+          <param name="zs0m" value="dim (10,10)">
+            <row><![CDATA[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,0,-1]]></row>
+          </param>
+          <param name="gen_cnst" value="1" />
+          <param name="const_path" value="C:\Temp\my_constants_file.tlo" />
+          <param name="Date" value="1723732398" />
+        </paramlist>
+      </User>
+    </Wire>
+  </WireCache>
+  <Output device="EMTDC" version="2010" date="2024/08/16" time="14:53:05.000000">
+    <Domain name="Time" unit="s" mult="0.0" skew="0.0">
+      <Sample rate="5128.20512821" end="76923" />
+    </Domain>
+    <List classid="Analog">
+      <Analog name="Main(0):VBus_1" index="1" gindex="100663297" id="1989848302:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):PLine1" index="2" gindex="100663298" id="228302995:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):QLine1" index="3" gindex="100663299" id="1957485525:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):VBus_2" index="4" gindex="100663300" id="87704116:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):PLine2" index="5" gindex="100663301" id="1032086593:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):QLine2" index="6" gindex="100663302" id="1891002949:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Iflt_IBR_1" index="7" gindex="100663303" id="270408922:0" label="" dim="3" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):QIBR_1" index="10" gindex="100663306" id="138379023:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):PIBR_1" index="11" gindex="100663307" id="449191707:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):VIBR_1" index="12" gindex="100663308" id="1591320797:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Lload" index="13" gindex="100663309" id="747453782:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Rload" index="14" gindex="100663310" id="573097445:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):QLoad" index="15" gindex="100663311" id="387932210:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):PLoad" index="16" gindex="100663312" id="872077852:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):ILoad_inst" index="17" gindex="100663313" id="971072655:0" label="" dim="3" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):VLoad_inst" index="20" gindex="100663316" id="1914501897:0" label="" dim="3" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):ILoad_rms" index="23" gindex="100663319" id="1014905117:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):VLoad_rms" index="24" gindex="100663320" id="444210114:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\Gen1(0):Tm1" index="25" gindex="100663321" id="1806822410:0" label="Mechanical Torque" dim="1" unit="pu" min="0.25" max="0.7" />
+      <Analog name="Main(0)\Gen1(0):W1" index="26" gindex="100663322" id="229144003:0" label="Machine Speed" dim="1" unit="rad/s" min="370.0" max="378.0" />
+      <Analog name="Main(0)\Gen1(0):Qout1" index="27" gindex="100663323" id="679352123:0" label="Synchronous Machine Power" dim="1" unit="MVAR" min="-3.0" max="6.0" />
+      <Analog name="Main(0)\Gen1(0):Pout1" index="28" gindex="100663324" id="167871326:0" label="Synchronous Machine Power" dim="1" unit="MW" min="40.0" max="80.0" />
+      <Analog name="Main(0)\Gen1(0):Pang1" index="29" gindex="100663325" id="903561417:0" label="Load Angle" dim="1" unit="deg" min="0.0" max="30.0" />
+      <Analog name="Main(0)\Gen1(0):Ef1" index="30" gindex="100663326" id="438854583:0" label="Field Voltage" dim="1" unit="pu" min="-3.0" max="5.0" />
+      <Analog name="Main(0)\Gen1(0):Vterm" index="31" gindex="100663327" id="236259970:0" label="" dim="3" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\Gen1(1):Tm1" index="34" gindex="100663330" id="1806822410:1" label="Mechanical Torque" dim="1" unit="pu" min="0.25" max="0.7" />
+      <Analog name="Main(0)\Gen1(1):W1" index="35" gindex="100663331" id="229144003:1" label="Machine Speed" dim="1" unit="rad/s" min="370.0" max="378.0" />
+      <Analog name="Main(0)\Gen1(1):Qout1" index="36" gindex="100663332" id="679352123:1" label="Synchronous Machine Power" dim="1" unit="MVAR" min="-3.0" max="6.0" />
+      <Analog name="Main(0)\Gen1(1):Pout1" index="37" gindex="100663333" id="167871326:1" label="Synchronous Machine Power" dim="1" unit="MW" min="40.0" max="80.0" />
+      <Analog name="Main(0)\Gen1(1):Pang1" index="38" gindex="100663334" id="903561417:1" label="Load Angle" dim="1" unit="deg" min="0.0" max="30.0" />
+      <Analog name="Main(0)\Gen1(1):Ef1" index="39" gindex="100663335" id="438854583:1" label="Field Voltage" dim="1" unit="pu" min="-3.0" max="5.0" />
+      <Analog name="Main(0)\Gen1(1):Vterm" index="40" gindex="100663336" id="236259970:1" label="" dim="3" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\IBR(0):Ppu" index="43" gindex="100663339" id="1862477598:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\IBR(0):Ppu" index="44" gindex="100663340" id="629348958:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\IBR(0):Qpu" index="45" gindex="100663341" id="1343283786:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\IBR(0):F_POI" index="46" gindex="100663342" id="579207431:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\IBR(0)\Simple_PPC(0):F_POI" index="47" gindex="100663343" id="450073801:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\IBR(0)\Simple_PPC(0):Qpu" index="48" gindex="100663344" id="273166470:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\IBR(0)\Simple_PPC(0):Ppu" index="49" gindex="100663345" id="1390707025:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):Ipv" index="50" gindex="100663346" id="2094825027:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):V_dc" index="51" gindex="100663347" id="1546159826:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):Carrier" index="52" gindex="100663348" id="749734837:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):IqMax" index="53" gindex="100663349" id="1036369153:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):IqMin" index="54" gindex="100663350" id="792488278:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):Phase C Reference" index="55" gindex="100663351" id="1252001584:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):Delta" index="56" gindex="100663352" id="1405723099:0" label="" dim="1" unit="o" min="-90" max="90" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):Phase B Reference" index="57" gindex="100663353" id="902163746:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):Phase A Reference" index="58" gindex="100663354" id="1172390811:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):m*" index="59" gindex="100663355" id="1081292433:0" label="" dim="1" unit="" min="0" max="1" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):Vd" index="60" gindex="100663356" id="1111579785:0" label="" dim="1" unit="" min="-0.3" max="0.4" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):Vd Reference" index="61" gindex="100663357" id="1121876680:0" label="" dim="1" unit="" min="-0.3" max="0.4" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):Id Reference" index="62" gindex="100663358" id="22523220:0" label="" dim="1" unit="pu" min="-0.1" max="0.2" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):d PI out" index="63" gindex="100663359" id="1546894446:0" label="" dim="1" unit="V" min="-20" max="20" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):id" index="64" gindex="100663360" id="264616691:0" label="" dim="1" unit="pu" min="-0.12" max="0.02" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):vq" index="65" gindex="100663361" id="1004176509:0" label="" dim="1" unit="" min="-0.3" max="0.4" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):BRK" index="66" gindex="100663362" id="961770721:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):Vq Reference" index="67" gindex="100663363" id="433395766:0" label="" dim="1" unit="" min="-0.3" max="0.4" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):Iq Reference" index="68" gindex="100663364" id="1361351764:0" label="" dim="1" unit="pu" min="-0.12" max="0.02" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):q PI out" index="69" gindex="100663365" id="390920458:0" label="" dim="1" unit="V" min="-8" max="8" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):iq" index="70" gindex="100663366" id="361319175:0" label="" dim="1" unit="pu" min="-0.12" max="0.02" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):Ic_C" index="71" gindex="100663367" id="2031149762:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):Ib_C" index="72" gindex="100663368" id="57563599:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):Ea_rms" index="73" gindex="100663369" id="2006619813:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):Ia_C" index="74" gindex="100663370" id="311951426:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):Iq  Measured" index="75" gindex="100663371" id="1473066218:0" label="" dim="1" unit="pu" min="-0.12" max="0.12" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):DBLK" index="76" gindex="100663372" id="1254095862:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):Id  Measured" index="77" gindex="100663373" id="157682152:0" label="" dim="1" unit="pu" min="-0.2" max="0.2" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):Vq Measured" index="78" gindex="100663374" id="1547006038:0" label="" dim="1" unit="V" min="-300" max="300" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):Igrid" index="79" gindex="100663375" id="2068764964:0" label="" dim="3" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):Vd Measured" index="82" gindex="100663378" id="30033438:0" label="" dim="1" unit="V" min="-300" max="300" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):Vgrid" index="83" gindex="100663379" id="300565671:0" label="" dim="3" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):Ec" index="86" gindex="100663382" id="786135195:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):PLL_f" index="87" gindex="100663383" id="586840437:0" label="" dim="1" unit="" min="-0.3" max="0.4" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):PLL Theta" index="88" gindex="100663384" id="807610240:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):Eb" index="89" gindex="100663385" id="490349240:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):Ea" index="90" gindex="100663386" id="1553209576:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    </List>
+    <List classid="Digital" />
+  </Output>
+</Meta>

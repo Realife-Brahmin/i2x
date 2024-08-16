@@ -1,0 +1,13 @@
+<Meta name="Solar_Lib">
+  <messagelist />
+  <ViewContext>
+    <Window defn="Solar_Lib:VSC" call="0" />
+  </ViewContext>
+  <List classid="View">
+    <View name="VSC" zoomscale="3.125" scrollx="0" scrolly="224" />
+    <View name="Simple_PPC" zoomscale="1.6" scrollx="0" scrolly="0" />
+    <View name="Main" zoomscale="2.34375" scrollx="59" scrolly="0" />
+    <View name="IBR1" zoomscale="1.5" scrollx="0" scrolly="0" />
+    <View name="PI_AntiWindUp_PPC" zoomscale="1.5" scrollx="0" scrolly="0" />
+  </List>
+</Meta>
