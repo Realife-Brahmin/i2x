@@ -1,0 +1,20 @@
+<workspace name="SS_Test_Bench_workspace" version="5.0.2" crc="52107358">
+  <projects>
+    <project type="project" name="SS_Test_Bench_v0" filepath=".\SS_Test_Bench_v0.pscx" />
+    <project type="library" name="Solar_Lib" filepath=".\Solar_Lib0.pslx" />
+    <project type="project" name="SolarSystem" filepath=".\SolarSystem.pscx" />
+    <project type="project" name="SS_Test_Bench_v1" filepath="..\..\..\..\..\OneDrive - North American Electric Reliability Corporation\Desktop\SS_Test_Bench_v1.pscx" />
+    <project type="project" name="test_ac" filepath="..\..\..\..\..\OneDrive - North American Electric Reliability Corporation\Desktop\test_ac.pscx" />
+    <project type="project" name="SS_Test_Bench_v4" filepath=".\SS_Test_Bench_v4.pscx" />
+    <project type="project" name="SS_Test_Bench_v3" filepath=".\SS_Test_Bench_v3.pscx" />
+  </projects>
+  <simulations />
+  <pmr />
+  <messagegrid expanded="">
+    <column name="Icon" />
+    <column name="Id" />
+    <column name="Component" />
+    <column name="Namespace" />
+    <column name="Description" />
+  </messagegrid>
+</workspace>

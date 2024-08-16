@@ -1,0 +1,356 @@
+<Meta name="SS_Test_Bench_v2">
+  <messagelist>
+    <message status="normal" label="build" groupid="400002" scope="SS_Test_Bench_v2" id="1232775025" classid="MessageObj"><![CDATA[Begin compiling with PSCAD Version 5.0.2]]></message>
+    <message status="normal" label="build" groupid="100006" id="2095254460" classid="CmpNavigator">
+      <User scope="SS_Test_Bench_v3" name="Gen1" status="normal" link="744883516" /><![CDATA[Compiling 'Gen1'. Generating network and data files.]]></message>
+    <message status="normal" label="build" groupid="100006" id="1776427329" classid="CmpNavigator">
+      <User scope="SS_Test_Bench_v3" name="IBR" status="normal" link="471791421" /><![CDATA[Compiling 'IBR'. Generating network and data files.]]></message>
+    <message status="warning" label="build" groupid="206502" id="2140434503" classid="CmpNavigator">
+      <User scope="SS_Test_Bench_v3" name="Solar_Lib:Simple_PPC" status="warning" link="558861415" /><![CDATA[Signal 'DBlk' type conversion may lose accuracy at connection 'DBLK']]></message>
+    <message status="warning" label="build" groupid="206502" id="260837689" classid="CmpNavigator">
+      <User scope="SS_Test_Bench_v3" name="Solar_Lib:VSC" status="warning" link="325647574" /><![CDATA[Signal 'DBlk' type conversion may lose accuracy at connection 'DBLK1']]></message>
+    <message status="warning" label="build" groupid="302003" id="1426052866" classid="CmpNavigator">
+      <User scope="SS_Test_Bench_v3" name="Solar_Lib:Simple_PPC" status="warning" link="558861415" /><![CDATA[Parameter 'Ti_V' in 'Simple_PPC' is disabled. All module parameters must be enabled in order to successfully link the module.]]></message>
+    <message status="warning" label="build" groupid="302003" id="810966356" classid="CmpNavigator">
+      <User scope="SS_Test_Bench_v3" name="Solar_Lib:Simple_PPC" status="warning" link="558861415" /><![CDATA[Parameter 'Kp_V' in 'Simple_PPC' is disabled. All module parameters must be enabled in order to successfully link the module.]]></message>
+    <message status="warning" label="build" groupid="302003" id="1784330278" classid="CmpNavigator">
+      <User scope="SS_Test_Bench_v3" name="Solar_Lib:Simple_PPC" status="warning" link="558861415" /><![CDATA[Parameter 'Ti_PF' in 'Simple_PPC' is disabled. All module parameters must be enabled in order to successfully link the module.]]></message>
+    <message status="warning" label="build" groupid="302003" id="146041582" classid="CmpNavigator">
+      <User scope="SS_Test_Bench_v3" name="Solar_Lib:Simple_PPC" status="warning" link="558861415" /><![CDATA[Parameter 'Kp_PF' in 'Simple_PPC' is disabled. All module parameters must be enabled in order to successfully link the module.]]></message>
+    <message status="normal" label="build" groupid="100006" id="79014582" classid="CmpNavigator">
+      <User scope="SS_Test_Bench_v3" name="Solar_Lib:Simple_PPC" status="normal" link="558861415" /><![CDATA[Compiling 'Simple_PPC'. Generating network and data files.]]></message>
+    <message status="normal" label="build" groupid="100006" id="1710162077" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="PI_AntiWindUp_PPC" status="normal" link="1808962177" /><![CDATA[Compiling 'PI_AntiWindUp_PPC'. Generating network and data files.]]></message>
+    <message status="normal" label="build" groupid="100006" id="1588486490" classid="CmpNavigator">
+      <User scope="SS_Test_Bench_v3" name="Solar_Lib:VSC" status="normal" link="325647574" /><![CDATA[Compiling 'VSC'. Generating network and data files.]]></message>
+    <message status="warning" label="build" groupid="205001" id="1174056344" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="master:short" status="warning" link="756410525" /><![CDATA[Suspicious floating terminal at node 'NT_12'.]]></message>
+    <message status="warning" label="build" groupid="205001" id="2045912098" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="master:short" status="warning" link="1669157090" /><![CDATA[Suspicious floating terminal at node 'NT_13'.]]></message>
+    <message status="warning" label="build" groupid="206502" id="1071621128" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="master:delay" status="warning" link="839520592" /><![CDATA[Signal 'RT_49' type conversion may lose accuracy at connection 'in']]></message>
+    <message status="warning" label="build" groupid="206502" id="1505409272" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="master:delay" status="warning" link="1897356571" /><![CDATA[Signal 'RT_93' type conversion may lose accuracy at connection 'in']]></message>
+    <message status="warning" label="build" groupid="206502" id="682972509" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="master:delay" status="warning" link="799617828" /><![CDATA[Signal 'RT_94' type conversion may lose accuracy at connection 'in']]></message>
+    <message status="warning" label="build" groupid="206502" id="1441320409" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="master:delay" status="warning" link="1784042278" /><![CDATA[Signal 'RT_95' type conversion may lose accuracy at connection 'in']]></message>
+    <message status="warning" label="build" groupid="206502" id="1186979089" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="master:delay" status="warning" link="841776722" /><![CDATA[Signal 'RT_83' type conversion may lose accuracy at connection 'in']]></message>
+    <message status="warning" label="build" groupid="206502" id="934473468" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="master:delay" status="warning" link="1438882071" /><![CDATA[Signal 'RT_84' type conversion may lose accuracy at connection 'in']]></message>
+    <message status="warning" label="build" groupid="206502" id="1759643849" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="master:delay" status="warning" link="700093095" /><![CDATA[Signal 'RT_85' type conversion may lose accuracy at connection 'in']]></message>
+    <message status="warning" label="build" groupid="206502" id="405852087" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="master:delay" status="warning" link="1103379090" /><![CDATA[Signal 'RT_87' type conversion may lose accuracy at connection 'in']]></message>
+    <message status="warning" label="build" groupid="206502" id="707522078" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="master:delay" status="warning" link="1537600205" /><![CDATA[Signal 'RT_88' type conversion may lose accuracy at connection 'in']]></message>
+    <message status="warning" label="build" groupid="206502" id="1755384716" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="master:delay" status="warning" link="1799941986" /><![CDATA[Signal 'RT_89' type conversion may lose accuracy at connection 'in']]></message>
+    <message status="warning" label="build" groupid="206502" id="24185776" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="master:delay" status="warning" link="990764453" /><![CDATA[Signal 'RT_90' type conversion may lose accuracy at connection 'in']]></message>
+    <message status="warning" label="build" groupid="206502" id="1698322224" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="master:delay" status="warning" link="1990028934" /><![CDATA[Signal 'RT_91' type conversion may lose accuracy at connection 'in']]></message>
+    <message status="warning" label="build" groupid="206502" id="1747346861" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="master:delay" status="warning" link="254214077" /><![CDATA[Signal 'RT_92' type conversion may lose accuracy at connection 'in']]></message>
+    <message status="warning" label="build" groupid="206502" id="88668270" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="master:sandhdefn" status="warning" link="1007490240" /><![CDATA[Signal 'BRK' type conversion may lose accuracy at connection 'nhold1']]></message>
+    <message status="warning" label="build" groupid="206502" id="149446301" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="master:inv" status="warning" link="777386281" /><![CDATA[Signal 'BRK' type conversion may lose accuracy at connection 'IN']]></message>
+    <message status="warning" label="build" groupid="206502" id="2034993213" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="master:select" status="warning" link="1515445759" /><![CDATA[Signal 'INIT' type conversion may lose accuracy at connection 'Ctrl']]></message>
+    <message status="warning" label="build" groupid="206502" id="939085236" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="master:bin_delay" status="warning" link="1614233462" /><![CDATA[Signal 'RT_70' type conversion may lose accuracy at connection 'in']]></message>
+    <message status="warning" label="build" groupid="206502" id="500382216" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="master:inv" status="warning" link="981430834" /><![CDATA[Signal 'DBLK' type conversion may lose accuracy at connection 'IN']]></message>
+    <message status="warning" label="build" groupid="206502" id="91625655" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="master:inv" status="warning" link="1901647688" /><![CDATA[Signal 'DBLK' type conversion may lose accuracy at connection 'IN']]></message>
+    <message status="warning" label="build" groupid="206502" id="1831233707" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="master:fp_int" status="warning" link="966569724" /><![CDATA[Signal 'DBLK' type conversion may lose accuracy at connection 'DBLCK']]></message>
+    <message status="warning" label="build" groupid="206502" id="830977222" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="master:fp_int" status="warning" link="129371673" /><![CDATA[Signal 'DBLK' type conversion may lose accuracy at connection 'DBLCK']]></message>
+    <message status="warning" label="build" groupid="206502" id="553967268" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="master:fp_int" status="warning" link="1160922932" /><![CDATA[Signal 'DBLK' type conversion may lose accuracy at connection 'DBLCK']]></message>
+    <message status="warning" label="build" groupid="206502" id="244951829" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="master:fp_int" status="warning" link="1311553476" /><![CDATA[Signal 'DBLK' type conversion may lose accuracy at connection 'DBLCK']]></message>
+    <message status="warning" label="build" groupid="206502" id="204499165" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="master:fp_int" status="warning" link="1757694377" /><![CDATA[Signal 'DBLK' type conversion may lose accuracy at connection 'DBLCK']]></message>
+    <message status="warning" label="build" groupid="206502" id="1824779676" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="master:fp_int" status="warning" link="2114994997" /><![CDATA[Signal 'DBLK' type conversion may lose accuracy at connection 'DBLCK']]></message>
+    <message status="normal" label="build" groupid="100006" id="1759346747" classid="CmpNavigator">
+      <User scope="Solar_Lib" name="PIwithFreeze" status="normal" link="1835432919" /><![CDATA[Compiling 'PIwithFreeze'. Generating network and data files.]]></message>
+    <message status="normal" label="build" groupid="100006" link="1732988575" id="1732988575" classid="FileNavigator"><![CDATA[Generating 'C:\Users\jhaa\Documents\documents_general\i2x\emt-bootcamp\PSCAD\SS_Test_Bench_v3.gf46\SS_Test_Bench_v3.map'.]]><file scope="SS_Test_Bench_v2">C:\Users\jhaa\Documents\documents_general\i2x\emt-bootcamp\PSCAD\SS_Test_Bench_v3.gf46\SS_Test_Bench_v3.map</file></message>
+    <message status="normal" label="build" groupid="100015" scope="SS_Test_Bench_v2" id="1521874973" classid="MessageObj"><![CDATA[The total number of live nodes: 60]]></message>
+    <message status="normal" label="build" groupid="0" link="384581680" id="384581680" classid="FileNavigator"><![CDATA[Coding .mak file: 'C:\Users\jhaa\Documents\documents_general\i2x\emt-bootcamp\PSCAD\SS_Test_Bench_v3.gf46\\SS_Test_Bench_v3.mak']]><file scope="SS_Test_Bench_v2">C:\Users\jhaa\Documents\documents_general\i2x\emt-bootcamp\PSCAD\SS_Test_Bench_v3.gf46\\SS_Test_Bench_v3.mak</file></message>
+    <message status="normal" label="build" groupid="400000" scope="SS_Test_Bench_v2" id="1569694716" classid="MessageObj"><![CDATA[Time for Compile: 52562ms  Make: 78ms]]></message>
+    <message status="normal" label="build" groupid="100011" id="861771417" classid="CmpNavigator">
+      <Wire scope="SS_Test_Bench_v3" name="SS_Test_Bench_v0:TL1" status="normal" link="55282781" /><![CDATA[Solving transmission segment using 'C:\Users\jhaa\Documents\documents_general\i2x\emt-bootcamp\PSCAD\SS_Test_Bench_v3.gf46\TL1_1.tli'.]]></message>
+    <message status="normal" label="build" groupid="100011" id="224997628" classid="CmpNavigator">
+      <Wire scope="SS_Test_Bench_v3" name="SS_Test_Bench_v0:TL1" status="normal" link="2132490940" /><![CDATA[Solving transmission segment using 'C:\Users\jhaa\Documents\documents_general\i2x\emt-bootcamp\PSCAD\SS_Test_Bench_v3.gf46\TL1_2.tli'.]]></message>
+    <message status="normal" label="build" groupid="100011" id="2057353388" classid="CmpNavigator">
+      <Wire scope="SS_Test_Bench_v3" name="SS_Test_Bench_v0:TL1" status="normal" link="722406453" /><![CDATA[Solving transmission segment using 'C:\Users\jhaa\Documents\documents_general\i2x\emt-bootcamp\PSCAD\SS_Test_Bench_v3.gf46\TL_IBR1.tli'.]]></message>
+    <message status="normal" label="build" groupid="100011" id="257667682" classid="CmpNavigator">
+      <Wire scope="SS_Test_Bench_v3" name="SS_Test_Bench_v0:TL1" status="normal" link="1388274854" /><![CDATA[Solving transmission segment using 'C:\Users\jhaa\Documents\documents_general\i2x\emt-bootcamp\PSCAD\SS_Test_Bench_v3.gf46\TL_IBR2.tli'.]]></message>
+    <message status="normal" label="build" groupid="400000" scope="SS_Test_Bench_v2" id="1982756353" classid="MessageObj"><![CDATA[Solve Time = 7141ms]]></message>
+    <message status="normal" label="build" groupid="100016" scope="SS_Test_Bench_v2" id="281543902" classid="MessageObj"><![CDATA[Will execute (1): call C:\Program Files (x86)\GFortran\4.6\bin\gf46vars.bat]]></message>
+    <message status="normal" label="build" groupid="100016" scope="SS_Test_Bench_v2" id="420354937" classid="MessageObj"><![CDATA[Will execute (1): call "C:\Program Files (x86)\GFortran\4.6\bin\gf46vars.bat"]]></message>
+    <message status="normal" label="build" groupid="100016" scope="SS_Test_Bench_v2" id="56006870" classid="MessageObj"><![CDATA[Will execute (2): make -j -f SS_Test_Bench_v3.mak]]></message>
+    <message status="normal" label="build" groupid="100016" scope="SS_Test_Bench_v2" id="1626288005" classid="MessageObj"><![CDATA[Will execute (2): "C:\Users\jhaa\Documents\documents_general\i2x\emt-bootcamp\PSCAD\SS_Test_Bench_v3.gf46\SS_Test_Bench_v3_mak.bat"]]></message>
+    <message status="normal" label="build" groupid="100005" scope="SS_Test_Bench_v2" id="692339639" classid="MessageObj"><![CDATA[Creating EMTDC executable...]]></message>
+    <message status="normal" label="build" groupid="0" scope="SS_Test_Bench_v2" id="841914483" classid="MessageObj"><![CDATA[C:\Users\jhaa\Documents\documents_general\i2x\emt-bootcamp\PSCAD\SS_Test_Bench_v3.gf46>call "C:\Program Files (x86)\GFortran\4.6\bin\gf46vars.bat" ]]></message>
+    <message status="normal" label="build" groupid="100004" scope="SS_Test_Bench_v2" id="1065362554" classid="MessageObj"><![CDATA[Compiling 'DS.f' into object code.]]></message>
+    <message status="normal" label="build" groupid="100004" scope="SS_Test_Bench_v2" id="1901281059" classid="MessageObj"><![CDATA[Compiling 'Main.f' into object code.]]></message>
+    <message status="normal" label="build" groupid="100004" scope="SS_Test_Bench_v2" id="1593913627" classid="MessageObj"><![CDATA[Compiling 'Gen1.f' into object code.]]></message>
+    <message status="normal" label="build" groupid="100004" scope="SS_Test_Bench_v2" id="1315283937" classid="MessageObj"><![CDATA[Compiling 'IBR.f' into object code.]]></message>
+    <message status="normal" label="build" groupid="100004" scope="SS_Test_Bench_v2" id="1402935083" classid="MessageObj"><![CDATA[Compiling 'Simple_PPC.f' into object code.]]></message>
+    <message status="normal" label="build" groupid="100004" scope="SS_Test_Bench_v2" id="384418587" classid="MessageObj"><![CDATA[Compiling 'PI_AntiWindUp_PPC.f' into object code.]]></message>
+    <message status="normal" label="build" groupid="100004" scope="SS_Test_Bench_v2" id="368321705" classid="MessageObj"><![CDATA[Compiling 'VSC.f' into object code.]]></message>
+    <message status="normal" label="build" groupid="0" scope="SS_Test_Bench_v2" id="2010506533" classid="MessageObj"><![CDATA[gfortran.exe -c -ffree-form -fdefault-real-8 -fdefault-double-8 -I"C:\Program Files (x86)\PSCAD50\emtdc\gf46\inc" -I"C:\Program Files (x86)\PSCAD50\emtdc\gf46\windows" -g  -Wconversion  Gen1.f]]></message>
+    <message status="normal" label="build" groupid="100004" scope="SS_Test_Bench_v2" id="2130155738" classid="MessageObj"><![CDATA[Compiling 'PIwithFreeze.f' into object code.]]></message>
+    <message status="normal" label="build" groupid="0" scope="SS_Test_Bench_v2" id="453422769" classid="MessageObj"><![CDATA[gfortran.exe -c -ffree-form -fdefault-real-8 -fdefault-double-8 -I"C:\Program Files (x86)\PSCAD50\emtdc\gf46\inc" -I"C:\Program Files (x86)\PSCAD50\emtdc\gf46\windows" -g  -Wconversion  Simple_PPC.f]]></message>
+    <message status="normal" label="build" groupid="0" scope="SS_Test_Bench_v2" id="31951000" classid="MessageObj"><![CDATA[gfortran.exe -c -ffree-form -fdefault-real-8 -fdefault-double-8 -I"C:\Program Files (x86)\PSCAD50\emtdc\gf46\inc" -I"C:\Program Files (x86)\PSCAD50\emtdc\gf46\windows" -g  -Wconversion  PI_AntiWindUp_PPC.f]]></message>
+    <message status="normal" label="build" groupid="0" scope="SS_Test_Bench_v2" id="1032629279" classid="MessageObj"><![CDATA[gfortran.exe -c -ffree-form -fdefault-real-8 -fdefault-double-8 -I"C:\Program Files (x86)\PSCAD50\emtdc\gf46\inc" -I"C:\Program Files (x86)\PSCAD50\emtdc\gf46\windows" -g  -Wconversion  VSC.f]]></message>
+    <message status="normal" label="build" groupid="0" scope="SS_Test_Bench_v2" id="1650552922" classid="MessageObj"><![CDATA[gfortran.exe -c -ffree-form -fdefault-real-8 -fdefault-double-8 -I"C:\Program Files (x86)\PSCAD50\emtdc\gf46\inc" -I"C:\Program Files (x86)\PSCAD50\emtdc\gf46\windows" -g  -Wconversion  PIwithFreeze.f]]></message>
+    <message status="normal" label="build" groupid="100013" scope="SS_Test_Bench_v2" id="1616282099" classid="MessageObj"><![CDATA[Linking objects and libraries into binary 'SS_Test_Bench_v3.exe']]></message>
+    <message status="normal" label="build" groupid="400003" scope="SS_Test_Bench_v2" id="1209920116" classid="MessageObj"><![CDATA[Finished compiling with PSCAD Version 5.0.2]]></message>
+    <message status="normal" label="runtime" groupid="100014" id="863561683" classid="CmpNavigator">
+      <User scope="SS_Test_Bench_v3" name="master:peswitch" status="normal" link="2055920522" /><![CDATA[Progress 36%: Diode: Safety turn off in branch 37 of subsystem 3]]></message>
+  </messagelist>
+  <ViewContext>
+    <Window defn="SS_Test_Bench_v3:Main" call="0" />
+  </ViewContext>
+  <List classid="View">
+    <View name="Main" zoomscale="1.92" scrollx="0" scrolly="0" />
+    <View name="Gen1" zoomscale="2" scrollx="0" scrolly="152" />
+    <View name="IBR" zoomscale="1.875" scrollx="0" scrolly="0" />
+    <View name="TL1" zoomscale="1.5" scrollx="0" scrolly="0" />
+  </List>
+  <WireCache>
+    <Wire classid="TLine" id="669905403" name="SS_Test_Bench_v0:TL1" x="288" y="450" w="85" h="190" orient="0" disable="false" defn="SS_Test_Bench_v0:TL1" recv="-1" send="-1" back="-1" crc="50722945">
+      <vertex x="0" y="0" />
+      <vertex x="0" y="18" />
+      <vertex x="36" y="162" />
+      <vertex x="36" y="180" />
+      <User classid="UserCmp" id="1930224211" name="SS_Test_Bench_v2:TL1" x="0" y="0" w="0" h="0" z="-1" orient="0" defn="SS_Test_Bench_v2:TL1" link="-1" q="4" disable="false">
+        <paramlist name="" link="-1" crc="0">
+          <param name="Name" value="TL1_1" />
+          <param name="R" value="3.52745738385" />
+          <param name="Freq" value="60.0 [Hz]" />
+          <param name="X" value="50.2349276435" />
+          <param name="B" value="0.000329291025262" />
+          <param name="Length" value="100.0 [km]" />
+          <param name="Dim" value="3" />
+          <param name="Mode" value="1" />
+          <param name="CoupleEnab" value="0" />
+          <param name="cct_overlayed" value="0" />
+          <param name="CoupleName" value="row" />
+          <param name="CoupleOffset" value="0.0 [m]" />
+          <param name="CoupleRef" value="0" />
+          <param name="ManEnab" value="0" />
+          <param name="tname" value="tandem_segment" />
+          <param name="sfault" value="0" />
+          <param name="linc" value="10.0 [km]" />
+          <param name="steps" value="3" />
+          <param name="DataFormat" value="0" />
+          <param name="VR" value="230.0 [kV]" />
+          <param name="MVA" value="100.0 [MVA]" />
+          <param name="r0mpu" value="dim (10,10)">
+            <row><![CDATA[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,0,-1]]></row>
+          </param>
+          <param name="r0m" value="dim (10,10)">
+            <row><![CDATA[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,0,-1]]></row>
+          </param>
+          <param name="xl0mpu" value="dim (10,10)">
+            <row><![CDATA[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,0,-1]]></row>
+          </param>
+          <param name="xl0m" value="dim (10,10)">
+            <row><![CDATA[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,0,-1]]></row>
+          </param>
+          <param name="xc0mpu" value="dim (10,10)">
+            <row><![CDATA[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,0,-1]]></row>
+          </param>
+          <param name="xc0m" value="dim (10,10)">
+            <row><![CDATA[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,0,-1]]></row>
+          </param>
+          <param name="bc0mpu" value="dim (10,10)">
+            <row><![CDATA[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,0,-1]]></row>
+          </param>
+          <param name="tt0m" value="dim (10,10)">
+            <row><![CDATA[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,0,-1]]></row>
+          </param>
+          <param name="zs0m" value="dim (10,10)">
+            <row><![CDATA[-1,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,-1,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,-1,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,-1,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,-1,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,-1,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,-1,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,-1,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,-1,-1]]></row>
+            <row><![CDATA[0,0,0,0,0,0,0,0,0,-1]]></row>
+          </param>
+          <param name="gen_cnst" value="1" />
+          <param name="const_path" value="C:\Temp\my_constants_file.tlo" />
+          <param name="Date" value="1723131900" />
+        </paramlist>
+      </User>
+    </Wire>
+  </WireCache>
+  <Output device="EMTDC" version="2010" date="2024/08/08" time="19:49:18.000000">
+    <Domain name="Time" unit="s" mult="0.0" skew="0.0">
+      <Sample rate="4000.0" end="80000" />
+    </Domain>
+    <List classid="Analog">
+      <Analog name="Main(0):VBus_1" index="1" gindex="100663297" id="1989848302:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):PLine1" index="2" gindex="100663298" id="228302995:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):QLine1" index="3" gindex="100663299" id="1957485525:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):VBus_2" index="4" gindex="100663300" id="87704116:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):PLine2" index="5" gindex="100663301" id="1032086593:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):QLine2" index="6" gindex="100663302" id="1891002949:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):PIBR" index="7" gindex="100663303" id="449191707:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):QIBR" index="8" gindex="100663304" id="138379023:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Iflt" index="9" gindex="100663305" id="270408922:0" label="" dim="3" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):VIBR" index="12" gindex="100663308" id="1591320797:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Lload" index="13" gindex="100663309" id="747453782:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):Rload" index="14" gindex="100663310" id="573097445:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):QLoad" index="15" gindex="100663311" id="387932210:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):PLoad" index="16" gindex="100663312" id="872077852:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):ILoad_inst" index="17" gindex="100663313" id="971072655:0" label="" dim="3" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):VLoad_inst" index="20" gindex="100663316" id="1914501897:0" label="" dim="3" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):ILoad_rms" index="23" gindex="100663319" id="1014905117:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0):VLoad_rms" index="24" gindex="100663320" id="444210114:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\Gen1(0):Tm1" index="25" gindex="100663321" id="1806822410:0" label="Mechanical Torque" dim="1" unit="pu" min="0.25" max="0.7" />
+      <Analog name="Main(0)\Gen1(0):W1" index="26" gindex="100663322" id="229144003:0" label="Machine Speed" dim="1" unit="rad/s" min="370.0" max="378.0" />
+      <Analog name="Main(0)\Gen1(0):Qout1" index="27" gindex="100663323" id="679352123:0" label="Synchronous Machine Power" dim="1" unit="MVAR" min="-3.0" max="6.0" />
+      <Analog name="Main(0)\Gen1(0):Pout1" index="28" gindex="100663324" id="167871326:0" label="Synchronous Machine Power" dim="1" unit="MW" min="40.0" max="80.0" />
+      <Analog name="Main(0)\Gen1(0):Pang1" index="29" gindex="100663325" id="903561417:0" label="Load Angle" dim="1" unit="deg" min="0.0" max="30.0" />
+      <Analog name="Main(0)\Gen1(0):Ef1" index="30" gindex="100663326" id="438854583:0" label="Field Voltage" dim="1" unit="pu" min="-3.0" max="5.0" />
+      <Analog name="Main(0)\Gen1(0):Vterm" index="31" gindex="100663327" id="236259970:0" label="" dim="3" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\Gen1(1):Tm1" index="34" gindex="100663330" id="1806822410:1" label="Mechanical Torque" dim="1" unit="pu" min="0.25" max="0.7" />
+      <Analog name="Main(0)\Gen1(1):W1" index="35" gindex="100663331" id="229144003:1" label="Machine Speed" dim="1" unit="rad/s" min="370.0" max="378.0" />
+      <Analog name="Main(0)\Gen1(1):Qout1" index="36" gindex="100663332" id="679352123:1" label="Synchronous Machine Power" dim="1" unit="MVAR" min="-3.0" max="6.0" />
+      <Analog name="Main(0)\Gen1(1):Pout1" index="37" gindex="100663333" id="167871326:1" label="Synchronous Machine Power" dim="1" unit="MW" min="40.0" max="80.0" />
+      <Analog name="Main(0)\Gen1(1):Pang1" index="38" gindex="100663334" id="903561417:1" label="Load Angle" dim="1" unit="deg" min="0.0" max="30.0" />
+      <Analog name="Main(0)\Gen1(1):Ef1" index="39" gindex="100663335" id="438854583:1" label="Field Voltage" dim="1" unit="pu" min="-3.0" max="5.0" />
+      <Analog name="Main(0)\Gen1(1):Vterm" index="40" gindex="100663336" id="236259970:1" label="" dim="3" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\IBR(0):Ppu" index="43" gindex="100663339" id="1862477598:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\IBR(0):Ppu" index="44" gindex="100663340" id="629348958:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\IBR(0):Qpu" index="45" gindex="100663341" id="1343283786:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\IBR(0):F_POI" index="46" gindex="100663342" id="579207431:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\IBR(0)\Simple_PPC(0):F_POI" index="47" gindex="100663343" id="450073801:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\IBR(0)\Simple_PPC(0):Qpu" index="48" gindex="100663344" id="273166470:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\IBR(0)\Simple_PPC(0):Ppu" index="49" gindex="100663345" id="1390707025:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):Ipv" index="50" gindex="100663346" id="2094825027:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):V_dc" index="51" gindex="100663347" id="1546159826:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):Carrier" index="52" gindex="100663348" id="749734837:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):IqMax" index="53" gindex="100663349" id="1036369153:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):IqMin" index="54" gindex="100663350" id="792488278:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):Phase C Reference" index="55" gindex="100663351" id="1252001584:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):Delta" index="56" gindex="100663352" id="1405723099:0" label="" dim="1" unit="o" min="-90" max="90" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):Phase B Reference" index="57" gindex="100663353" id="902163746:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):Phase A Reference" index="58" gindex="100663354" id="1172390811:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):m*" index="59" gindex="100663355" id="1081292433:0" label="" dim="1" unit="" min="0" max="1" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):Vd" index="60" gindex="100663356" id="1111579785:0" label="" dim="1" unit="" min="-0.3" max="0.4" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):Vd Reference" index="61" gindex="100663357" id="1121876680:0" label="" dim="1" unit="" min="-0.3" max="0.4" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):Id Reference" index="62" gindex="100663358" id="22523220:0" label="" dim="1" unit="pu" min="-0.1" max="0.2" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):d PI out" index="63" gindex="100663359" id="1546894446:0" label="" dim="1" unit="V" min="-20" max="20" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):id" index="64" gindex="100663360" id="264616691:0" label="" dim="1" unit="pu" min="-0.12" max="0.02" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):vq" index="65" gindex="100663361" id="1004176509:0" label="" dim="1" unit="" min="-0.3" max="0.4" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):BRK" index="66" gindex="100663362" id="961770721:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):Vq Reference" index="67" gindex="100663363" id="433395766:0" label="" dim="1" unit="" min="-0.3" max="0.4" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):Iq Reference" index="68" gindex="100663364" id="1361351764:0" label="" dim="1" unit="pu" min="-0.12" max="0.02" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):q PI out" index="69" gindex="100663365" id="390920458:0" label="" dim="1" unit="V" min="-8" max="8" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):iq" index="70" gindex="100663366" id="361319175:0" label="" dim="1" unit="pu" min="-0.12" max="0.02" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):Ic_C" index="71" gindex="100663367" id="2031149762:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):Ib_C" index="72" gindex="100663368" id="57563599:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):Ea_rms" index="73" gindex="100663369" id="2006619813:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):Ia_C" index="74" gindex="100663370" id="311951426:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):Iq  Measured" index="75" gindex="100663371" id="1473066218:0" label="" dim="1" unit="pu" min="-0.12" max="0.12" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):DBLK" index="76" gindex="100663372" id="1254095862:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):Id  Measured" index="77" gindex="100663373" id="157682152:0" label="" dim="1" unit="pu" min="-0.2" max="0.2" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):Vq Measured" index="78" gindex="100663374" id="1547006038:0" label="" dim="1" unit="V" min="-300" max="300" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):Igrid" index="79" gindex="100663375" id="2068764964:0" label="" dim="3" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):Vd Measured" index="82" gindex="100663378" id="30033438:0" label="" dim="1" unit="V" min="-300" max="300" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):Vgrid" index="83" gindex="100663379" id="300565671:0" label="" dim="3" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):Ec" index="86" gindex="100663382" id="786135195:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):PLL_f" index="87" gindex="100663383" id="586840437:0" label="" dim="1" unit="" min="-0.3" max="0.4" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):PLL Theta" index="88" gindex="100663384" id="807610240:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):Eb" index="89" gindex="100663385" id="490349240:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+      <Analog name="Main(0)\IBR(0)\VSC(0):Ea" index="90" gindex="100663386" id="1553209576:0" label="" dim="1" unit="" min="-2.0" max="2.0" />
+    </List>
+    <List classid="Digital" />
+  </Output>
+</Meta>

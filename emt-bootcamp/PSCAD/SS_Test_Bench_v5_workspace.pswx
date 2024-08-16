@@ -1,0 +1,16 @@
+<workspace name="SS_Test_Bench_v5_workspace" version="5.0.2" crc="102711858">
+  <projects>
+    <project type="project" name="SolarSystem" filepath=".\SolarSystem.pscx" />
+    <project type="project" name="SS_Test_Bench_v5_backup" filepath=".\SS_Test_Bench_v5_backup.pscx" />
+    <project type="library" name="Solar_Lib" filepath=".\Solar_Lib.pslx" />
+  </projects>
+  <simulations />
+  <pmr />
+  <messagegrid expanded="">
+    <column name="Icon" />
+    <column name="Id" />
+    <column name="Component" />
+    <column name="Namespace" />
+    <column name="Description" />
+  </messagegrid>
+</workspace>
